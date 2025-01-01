@@ -447,11 +447,21 @@ fun addItemOrDrop(player: Player, id: Int, amount: Int = 1) {
 fun addItemOrBank(player: Player, id: Int, amount: Int = 1) {
     val item = Item(id, amount)
     if (!player.inventory.add(item)) {
-        if (player.bankPrimary.add(item)) {
-            sendMessage(player, colorize("%RThe ${item.name} has been sent to your bank."))
-        } else if (player.bankSecondary.add(item)) {
+        if (player.bankPrimary.add(item))
+        {
+            val itemCount = player.bankPrimary.getAmount(item)
+
+            if(amount > 1)
+                sendMessage(player, colorize("%Y${amount} ${item.name} have been sent to your bank. Current amount in bank: ${itemCount}"))
+            else
+                sendMessage(player, colorize("%YThe ${item.name} has been sent to your bank. Current amount in bank: ${itemCount}"))
+        }
+        else if (player.bankSecondary.add(item))
+        {
             sendMessage(player, colorize("%RThe ${item.name} has been sent to your secondary bank."))
-        } else {
+        }
+        else
+        {
             GroundItemManager.create(item, player)
             sendMessage(player, colorize("%RAs your inventory and bank account(s) are all full, the ${item.name} has been placed on the ground under your feet. Don't forget to grab it. (Also consider cleaning out some stuff, maybe? I mean, Jesus!)"))
         }

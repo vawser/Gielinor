@@ -40,7 +40,7 @@ public class InterfaceTab
                 _tempScale = CFG.Current.System_UI_Scale;
                 Runebox.UIScaleChanged?.Invoke(null, EventArgs.Empty);
             }
-            UIHelper.ShowHoverTooltip("Adjusts the scale of the user interface throughout all of Warbox.");
+            UIHelper.ShowHoverTooltip("Adjusts the scale of the user interface throughout all of Runebox.");
 
             ImGui.SameLine();
             if (ImGui.Button("Reset"))
@@ -63,7 +63,7 @@ public class InterfaceTab
                 CFG.Current.Interface_FontSize = (float)Math.Round(CFG.Current.Interface_FontSize);
                 Runebox.UIScaleChanged?.Invoke(null, EventArgs.Empty);
             }
-            UIHelper.ShowHoverTooltip("Adjusts the size of the font in Warbox.");
+            UIHelper.ShowHoverTooltip("Adjusts the size of the font in Runebox.");
         }
 
         // Fonts

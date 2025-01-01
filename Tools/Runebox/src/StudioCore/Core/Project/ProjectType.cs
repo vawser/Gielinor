@@ -3,5 +3,5 @@
 public enum ProjectType
 {
     Undefined = 0,
-    EU4 = 1
+    Runescape = 1
 }

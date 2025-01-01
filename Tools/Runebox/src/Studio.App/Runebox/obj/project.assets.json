@@ -9468,11 +9468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\RSPS\\Tools\\Runebox\\src\\Studio.App\\Runebox\\Runebox.csproj",
+      "projectUniqueName": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Studio.App\\Runebox\\Runebox.csproj",
       "projectName": "Runebox",
-      "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Studio.App\\Runebox\\Runebox.csproj",
+      "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Studio.App\\Runebox\\Runebox.csproj",
       "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-      "outputPath": "G:\\RSPS\\Tools\\Runebox\\src\\Studio.App\\Runebox\\obj\\",
+      "outputPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Studio.App\\Runebox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9493,11 +9493,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "G:\\RSPS\\Tools\\Runebox\\src\\StudioCore\\StudioCore.csproj": {
-              "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\StudioCore\\StudioCore.csproj"
+            "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\StudioCore\\StudioCore.csproj": {
+              "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\StudioCore\\StudioCore.csproj"
             },
-            "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj": {
-              "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj"
+            "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj": {
+              "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj"
             }
           }
         }

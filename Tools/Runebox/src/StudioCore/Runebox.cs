@@ -415,7 +415,7 @@ public class Runebox
             catch (Exception e)
             {
                 PlatformUtils.Instance.MessageBox($"Unable to save config during crash recovery.\n" +
-                                                  $"If you continue to crash on startup, delete config in AppData\\Local\\Warbox\n\n" +
+                                                  $"If you continue to crash on startup, delete config in AppData\\Local\\Runebox\n\n" +
                                                   $"{e.Message} {e.StackTrace}",
                     "Error",
                     MessageBoxButtons.OK,

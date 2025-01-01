@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9mtpvHEts1/Bu52TTNenhde6TWoxykNOWUIBHr+JAw33H/Ab068e4gFu2Hi43eys1+bzul+rmQdby4eCX4I4A==",
+  "dgSpecHash": "ImVM/z7EXfI/Xs2RpZCj8haHYJJJ9yAxKWu2nFF4KlI4f6vqnDDaupy+moa7dJgA86nQscVAQBZxCSNiyIdApA==",
   "success": true,
-  "projectFilePath": "G:\\RSPS\\Tools\\Runebox\\src\\StudioCore\\StudioCore.csproj",
+  "projectFilePath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\StudioCore\\StudioCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\benja\\.nuget\\packages\\assimpnet\\4.1.0\\assimpnet.4.1.0.nupkg.sha512",
     "C:\\Users\\benja\\.nuget\\packages\\communitytoolkit.highperformance\\8.2.2\\communitytoolkit.highperformance.8.2.2.nupkg.sha512",

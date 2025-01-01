@@ -64,7 +64,7 @@ class MiningListener : InteractionListener {
         var rewardAmount : Int
         if (reward > 0) {
             reward = calculateReward(player, resource, isEssence, isGems, reward) // calculate rewards
-            rewardAmount = calculateRewardAmount(player, isEssence, reward) // calculate amount
+            rewardAmount = calculateRewardAmount(player, isEssence, reward, resource) // calculate amount
 
             player.dispatch(ResourceProducedEvent(reward, rewardAmount, node))
             SkillingPets.checkPetDrop(player, SkillingPets.GOLEM) // roll for pet
@@ -105,11 +105,12 @@ class MiningListener : InteractionListener {
                 sendMessage(player, "You get some ${rewardName.lowercase()}.")
             }
 
-            // Give the mining reward, increment 'rocks mined' attribute
-            if(addItem(player, reward, rewardAmount)) {
-                var rocksMined = getAttribute(player, "$STATS_BASE:$STATS_ROCKS", 0)
-                setAttribute(player, "/save:$STATS_BASE:$STATS_ROCKS", ++rocksMined)
-            }
+            // Reward
+            addItemOrBank(player, reward, rewardAmount)
+
+            // increment 'rocks mined' attribute
+            var rocksMined = getAttribute(player, "$STATS_BASE:$STATS_ROCKS", 0)
+            setAttribute(player, "/save:$STATS_BASE:$STATS_ROCKS", ++rocksMined)
 
             // Calculate bonus gem chance while mining
             if (!isEssence) {
@@ -128,25 +129,35 @@ class MiningListener : InteractionListener {
                 if (RandomFunction.roll(chance)) {
                     val gem = GEM_REWARDS.random()
                     sendMessage(player,"You find a ${gem.name}!")
+
+                    /*
                     if (freeSlots(player) == 0) {
                         sendMessage(player,"You do not have enough space in your inventory, so you drop the gem on the floor.")
                     }
-                    addItemOrDrop(player, gem.id)
+                     */
+
+                    addItemOrBank(player, gem.id, 1)
                 }
             }
 
+            // VAWSER: ores never deplete
+            /*
             // Transform ore to depleted version
             if (!isEssence && resource!!.respawnRate != 0) {
                 SceneryBuilder.replace(node as Scenery, Scenery(resource!!.emptyId, node.getLocation(), node.type, node.rotation), resource!!.respawnDuration)
                 node.setActive(false)
                 return true
             }
+            */
         }
         return true
     }
 
-    private fun calculateRewardAmount(player: Player, isMiningEssence: Boolean, reward: Int): Int {
+    private fun calculateRewardAmount(player: Player, isMiningEssence: Boolean, reward: Int, resource: MiningNode): Int {
         var amount = 1
+
+        // Increase reward amount based on Mining Level
+        amount = calculateMiningLevelAmountBoost(player, isMiningEssence, reward, resource);
 
         // If player is wearing Varrock armour from diary, roll chance at extra ore
         if (!isMiningEssence && player.achievementDiaryManager.getDiary(DiaryType.VARROCK).level != -1) {
@@ -198,7 +209,11 @@ class MiningListener : InteractionListener {
         if(SkillcapePerks.isActive(SkillcapePerks.PRECISION_MINER,player)){
             toolRatio += 0.075
         }
-        val clientRatio = Math.random() * ((level - resource.level) * (1.0 + toolRatio))
+        var clientRatio = Math.random() * ((level - resource.level) * (1.0 + toolRatio))
+
+        // VAWSER: increase success rate
+        clientRatio *= 2
+
         return hostRatio < clientRatio
     }
 
@@ -220,6 +235,8 @@ class MiningListener : InteractionListener {
             sendMessage(player, "You do not have a pickaxe to use.")
             return false
         }
+
+        /*
         if (freeSlots(player) == 0) {
             if(resource.identifier == 13.toByte()) {
                 sendDialogue(player,"Your inventory is too full to hold any more gems.")
@@ -228,6 +245,40 @@ class MiningListener : InteractionListener {
             sendDialogue(player,"Your inventory is too full to hold any more ${ItemDefinition.forId(resource!!.reward).name.lowercase()}.")
             return false
         }
+        */
+
         return node.isActive
+    }
+
+    // VAWSER: adjust the amount of ore rewarded based on Mining Level
+    // TODO: show this in the skill guide
+    private fun calculateMiningLevelAmountBoost(player: Player, isMiningEssence: Boolean, reward: Int, resource: MiningNode): Int {
+        var amount = 1
+
+        // Increased ore rewards base on level
+        var miningLevel = player.skills.getLevel(Skills.MINING)
+
+        // If the resource level requirement is below the checked player Mining level,
+        // then increase the amount at that milestone.
+        if(resource.level < 10 && miningLevel >= 10)
+            amount += 1
+        if(resource.level < 20 && miningLevel >= 20)
+            amount += 1
+        if(resource.level < 30 && miningLevel >= 30)
+            amount += 1
+        if(resource.level < 40 && miningLevel >= 40)
+            amount += 1
+        if(resource.level < 50 && miningLevel >= 50)
+            amount += 1
+        if(resource.level < 60 && miningLevel >= 60)
+            amount += 1
+        if(resource.level < 70 && miningLevel >= 70)
+            amount += 1
+        if(resource.level < 80 && miningLevel >= 80)
+            amount += 1
+        if(resource.level < 90 && miningLevel >= 90)
+            amount += 1
+
+        return amount
     }
 }

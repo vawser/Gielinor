@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudioCore
-build_property.ProjectDir = G:\RSPS\Tools\Runebox\src\StudioCore\
+build_property.ProjectDir = G:\RSPS\Gielinor\Tools\Runebox\src\StudioCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

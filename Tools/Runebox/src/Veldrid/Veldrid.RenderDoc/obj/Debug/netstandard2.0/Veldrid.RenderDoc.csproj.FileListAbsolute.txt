@@ -40,3 +40,14 @@ G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Vel
 G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.sourcelink.json
 G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.dll
 G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.pdb
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\bin\Debug\netstandard2.0\Veldrid.RenderDoc.deps.json
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\bin\Debug\netstandard2.0\Veldrid.RenderDoc.dll
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\bin\Debug\netstandard2.0\Veldrid.RenderDoc.pdb
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.csproj.AssemblyReference.cache
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.GeneratedMSBuildEditorConfig.editorconfig
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.AssemblyInfoInputs.cache
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.AssemblyInfo.cs
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.csproj.CoreCompileInputs.cache
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.sourcelink.json
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.dll
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid.RenderDoc\obj\Debug\netstandard2.0\Veldrid.RenderDoc.pdb

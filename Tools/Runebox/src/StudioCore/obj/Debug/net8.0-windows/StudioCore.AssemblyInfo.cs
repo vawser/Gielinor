@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudioCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f8872af171ce926e9591206800568a3bb3babae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5bab6aba11d1a0b7a14386f13e3f5c8c36dbbc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudioCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudioCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

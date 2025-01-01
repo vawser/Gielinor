@@ -119,7 +119,7 @@ public class ProjectModal
         // Project Name
         ImGui.AlignTextToFramePadding();
         ImGui.Text("Project Name:      ");
-        UIHelper.ShowHoverTooltip("Project's display name. Only affects visuals within Warbox.");
+        UIHelper.ShowHoverTooltip("Project's display name. Only affects visuals within Runebox.");
         ImGui.SameLine();
 
         var pname = newProject.Config != null ? newProject.Config.ProjectName : "Blank";

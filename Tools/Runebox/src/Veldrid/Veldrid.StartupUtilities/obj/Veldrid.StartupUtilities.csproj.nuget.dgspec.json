@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj": {}
+    "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj": {}
   },
   "projects": {
-    "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj": {
+    "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj",
+        "projectUniqueName": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj",
         "projectName": "Veldrid.SDL2",
-        "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj",
+        "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj",
         "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-        "outputPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\obj\\",
+        "outputPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj": {
+    "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj",
+        "projectUniqueName": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj",
         "projectName": "Veldrid.StartupUtilities",
-        "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj",
+        "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj",
         "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-        "outputPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\obj\\",
+        "outputPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,11 +113,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj": {
-                "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj"
+              "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj": {
+                "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.SDL2\\Veldrid.SDL2.csproj"
               },
-              "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj": {
-                "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj"
+              "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj": {
+                "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj": {
+    "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj",
+        "projectUniqueName": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj",
         "projectName": "Veldrid",
-        "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj",
+        "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\Veldrid.csproj",
         "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-        "outputPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\obj\\",
+        "outputPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

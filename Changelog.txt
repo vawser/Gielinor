@@ -1,3 +1,15 @@
 #----------------------------------------------------
+# Vision
+#----------------------------------------------------
+1. Adjust the gameplay of 2009scape to better suit a Ironman character.
+2. Improve skilling as a source of resources.
+
+#----------------------------------------------------
 # Changelog
 #----------------------------------------------------
+
+
+# Skills
+- Mining: ores are automatically banked when inventory is full.
+- Mining: increased base success rate for ore reward.
+- Mining: ore reward amount now scales based on Mining level (+1 for each 10 level milestone after the ore requirement)

@@ -95,12 +95,12 @@ public class ProjectHandler
         Runebox.ProjectType = CurrentProject.Config.GameType;
         Runebox.GameRoot = CurrentProject.Config.GameRoot;
         Runebox.ProjectRoot = Path.GetDirectoryName(path);
-        Runebox.SmithboxDataRoot = $"{Runebox.ProjectRoot}\\.warbox";
+        Runebox.SmithboxDataRoot = $"{Runebox.ProjectRoot}\\.runebox";
 
         if (Runebox.ProjectRoot == "")
-            TaskLogs.AddLog("Warbox ProjectRoot is empty!");
+            TaskLogs.AddLog("Runebox ProjectRoot is empty!");
 
-        Runebox.SetProgramTitle($"{CurrentProject.Config.ProjectName} - Warbox");
+        Runebox.SetProgramTitle($"{CurrentProject.Config.ProjectName} - Runebox");
 
         Runebox.EditorHandler.UpdateEditors();
 
@@ -138,7 +138,7 @@ public class ProjectHandler
     public void ClearProject()
     {
         CurrentProject = null;
-        Runebox.SetProgramTitle("No Project - Warbox");
+        Runebox.SetProgramTitle("No Project - Runebox");
         Runebox.ProjectType = ProjectType.Undefined;
         Runebox.GameRoot = "";
         Runebox.ProjectRoot = "";
@@ -147,11 +147,11 @@ public class ProjectHandler
 
     public void UpdateProjectVariables()
     {
-        Runebox.SetProgramTitle($"{CurrentProject.Config.ProjectName} - Warbox");
+        Runebox.SetProgramTitle($"{CurrentProject.Config.ProjectName} - Runebox");
         Runebox.ProjectType = CurrentProject.Config.GameType;
         Runebox.GameRoot = CurrentProject.Config.GameRoot;
         Runebox.ProjectRoot = Path.GetDirectoryName(CurrentProject.ProjectJsonPath);
-        Runebox.SmithboxDataRoot = $"{Runebox.ProjectRoot}\\.warbox";
+        Runebox.SmithboxDataRoot = $"{Runebox.ProjectRoot}\\.runebox";
     }
 
     public void AddProjectToRecentList(Project targetProject)
@@ -255,9 +255,9 @@ public class ProjectHandler
     {
         var type = ProjectType.Undefined;
 
-        if (directory.Contains("Europa Universalis IV"))
+        if (directory.Contains("Runescape"))
         {
-            type = ProjectType.EU4;
+            type = ProjectType.Runescape;
         }
 
         return type;
@@ -361,8 +361,7 @@ public class ProjectHandler
 
         foreach (RecentProject p in Current.RecentProjects.ToArray())
         {
-            // EU4
-            if (p.GameType == ProjectType.EU4)
+            if (p.GameType == ProjectType.Runescape)
             {
                 RecentProjectEntry(p, id);
 

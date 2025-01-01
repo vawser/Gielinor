@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj": {}
+    "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj": {}
   },
   "projects": {
-    "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj": {
+    "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj",
+        "projectUniqueName": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj",
         "projectName": "Veldrid.RenderDoc",
-        "projectPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj",
+        "projectPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\Veldrid.RenderDoc.csproj",
         "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-        "outputPath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\obj\\",
+        "outputPath": "G:\\RSPS\\Gielinor\\Tools\\Runebox\\src\\Veldrid\\Veldrid.RenderDoc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

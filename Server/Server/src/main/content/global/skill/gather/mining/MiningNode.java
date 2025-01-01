@@ -460,113 +460,113 @@ public enum MiningNode{
             this.empty = empty;
             this.identifier = identifier;
             switch(identifier & 0xFF) {
-                case 1:
-                case 2:
+                case 1: // Copper
+                case 2: // Tin
                     respawnRate = 4 | 8 << 16;
                     experience = 17.5;
                     rate = 0.05;
                     reward = identifier == 1 ? 436 : 438;
                     level = 1;
                     break;
-                case 3:
+                case 3: // Clay
                     respawnRate = 1 | 1 << 16;
                     experience = 5.0;
                     rate = 0.1;
                     reward = 434;
                     level = 1;
                     break;
-                case 4:
+                case 4: // Limestone
                     respawnRate = 10 | 20 << 16;
                     experience = 26.5;
                     rate = 0.2;
                     reward = 3211;
                     level = 10;
                     break;
-                case 5:
+                case 5: // Blurite
                     respawnRate = 10 | 20 << 16;
                     experience = 17.5;
                     rate = 0.2;
                     reward = 668;
                     level = 10;
                     break;
-                case 6:
+                case 6: // Iron
                     respawnRate = 15 | 25 << 16;
                     experience = 35.0;
                     rate = 0.2;
                     reward = 440;
                     level = 15;
                     break;
-                case 7:
+                case 7: // Silver
                     respawnRate = 100 | 200 << 16;
                     experience = 40.0;
                     rate = 0.3;
                     reward = 442;
                     level = 20;
                     break;
-                case 8:
+                case 8: // Coal
                     respawnRate = 50 | 100 << 16;
                     experience = 50.0;
                     rate = 0.4;
                     reward = 453;
                     level = 30;
                     break;
-                case 9:
+                 case 9: // Gold
                     respawnRate = 100 | 200 << 16;
                     experience = 65.0;
                     rate = 0.6;
                     reward = 444;
                     level = 40;
                     break;
-                case 10:
+                case 10: // Mithril
                     respawnRate = 200 | 400 << 16;
                     experience = 80.0;
                     rate = 0.70;
                     reward = 447;
                     level = 55;
                     break;
-                case 11:
+                case 11: // Adamantite
                     respawnRate = 400 | 800 << 16;
                     experience = 95.0;
                     rate = 0.85;
                     reward = 449;
                     level = 70;
                     break;
-                case 12:
+                case 12: // Runite
                     respawnRate = 1250 | 2500 << 16;
                     experience = 125.0;
                     rate = 0.95;
                     reward = 451;
                     level = 85;
                     break;
-                case 13:
+                case 13: // Gem rock
                     respawnRate = 166 | 175 << 16;
                     experience = 65;
                     rate = 0.95;
                     reward = 1625;
                     level = 40;
                     break;
-                case 14:
+                case 14: // Rune essence
                     respawnRate = 1 | 1 << 16;
                     experience = 5.0;
                     rate = 0.1;
                     reward = 1436;
                     level = 1;
                     break;
-                case 15:
+                case 15: // Sandstone
                     respawnRate = 30 | 60 << 16;
                     experience = 30.0;
                     rate = 0.2;
                     reward = 6971;
                     level = 35;
                     break;
-                case 16:
+                case 16: // Granite
                     respawnRate = 10 | 20 << 16;
                     experience = 50.0;
                     rate = 0.2;
                     reward = 6979;
                     level = 45;
                     break;
-                case 17:
+                case 17: // Rubium
                     respawnRate = 50 | 100 << 16;
                     experience = 17.5;
                     rate = 0.6;

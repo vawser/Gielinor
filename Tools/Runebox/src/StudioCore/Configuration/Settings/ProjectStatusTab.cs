@@ -27,7 +27,7 @@ public class ProjectStatusTab
         else if (TaskManager.AnyActiveTasks())
         {
             ImGui.Text("Waiting for program tasks to finish...");
-            UIHelper.ShowHoverTooltip("Warbox must finished all program tasks before it can load a project.");
+            UIHelper.ShowHoverTooltip("Runebox must finished all program tasks before it can load a project.");
         }
         else
         {

@@ -48,3 +48,16 @@ G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.dll
 G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\refint\Veldrid.dll
 G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.pdb
 G:\RSPS\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\ref\Veldrid.dll
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\bin\Debug\net8.0-windows\Veldrid.deps.json
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\bin\Debug\net8.0-windows\Veldrid.dll
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\bin\Debug\net8.0-windows\Veldrid.pdb
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.csproj.AssemblyReference.cache
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.GeneratedMSBuildEditorConfig.editorconfig
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.AssemblyInfoInputs.cache
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.AssemblyInfo.cs
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.csproj.CoreCompileInputs.cache
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.sourcelink.json
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.dll
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\refint\Veldrid.dll
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\Veldrid.pdb
+G:\RSPS\Gielinor\Tools\Runebox\src\Veldrid\Veldrid\obj\Debug\net8.0-windows\ref\Veldrid.dll
