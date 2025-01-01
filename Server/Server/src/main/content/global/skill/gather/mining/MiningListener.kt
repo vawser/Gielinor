@@ -70,7 +70,7 @@ class MiningListener : InteractionListener {
             SkillingPets.checkPetDrop(player, SkillingPets.GOLEM) // roll for pet
 
             // Reward mining experience
-            val experience = resource!!.experience * rewardAmount
+            val experience = resource!!.experience * 1.0
             rewardXP(player, Skills.MINING, experience)
 
             // If player is wearing Bracelet of Clay, soften
