@@ -1,0 +1,9 @@
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\bin\Release\netstandard2.0\Veldrid.RenderDoc.deps.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\bin\Release\netstandard2.0\Veldrid.RenderDoc.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\obj\Release\netstandard2.0\Veldrid.RenderDoc.csproj.AssemblyReference.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\obj\Release\netstandard2.0\Veldrid.RenderDoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\obj\Release\netstandard2.0\Veldrid.RenderDoc.AssemblyInfoInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\obj\Release\netstandard2.0\Veldrid.RenderDoc.AssemblyInfo.cs
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\obj\Release\netstandard2.0\Veldrid.RenderDoc.csproj.CoreCompileInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\obj\Release\netstandard2.0\Veldrid.RenderDoc.sourcelink.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.RenderDoc\obj\Release\netstandard2.0\Veldrid.RenderDoc.dll

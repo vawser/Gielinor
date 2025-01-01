@@ -1,0 +1,8 @@
+{
+    "profiles": {
+        "Smithbox": {
+            "commandName": "Project",
+            "nativeDebugging": true
+        }
+    }
+}

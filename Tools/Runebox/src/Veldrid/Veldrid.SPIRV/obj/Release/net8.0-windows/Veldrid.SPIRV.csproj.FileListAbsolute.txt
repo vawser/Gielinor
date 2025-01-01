@@ -1,0 +1,13 @@
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\bin\Release\net8.0-windows\Veldrid.SPIRV.deps.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\bin\Release\net8.0-windows\Veldrid.SPIRV.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\bin\Release\net8.0-windows\Veldrid.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.csproj.AssemblyReference.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.AssemblyInfoInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.AssemblyInfo.cs
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.csproj.CoreCompileInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.sourcelink.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.csproj.CopyComplete
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\Veldrid.SPIRV.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\refint\Veldrid.SPIRV.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.SPIRV\obj\Release\net8.0-windows\ref\Veldrid.SPIRV.dll

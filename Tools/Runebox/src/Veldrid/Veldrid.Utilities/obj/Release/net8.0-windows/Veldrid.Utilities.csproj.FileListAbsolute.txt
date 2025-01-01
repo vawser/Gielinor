@@ -1,0 +1,13 @@
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\bin\Release\net8.0-windows\Veldrid.Utilities.deps.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\bin\Release\net8.0-windows\Veldrid.Utilities.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\bin\Release\net8.0-windows\Veldrid.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.csproj.AssemblyReference.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.AssemblyInfoInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.AssemblyInfo.cs
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.sourcelink.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.csproj.CopyComplete
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\Veldrid.Utilities.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\refint\Veldrid.Utilities.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.Utilities\obj\Release\net8.0-windows\ref\Veldrid.Utilities.dll

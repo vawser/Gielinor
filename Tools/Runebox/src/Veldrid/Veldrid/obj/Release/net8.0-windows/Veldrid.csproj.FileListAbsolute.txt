@@ -1,0 +1,11 @@
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\bin\Release\net8.0-windows\Veldrid.deps.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\bin\Release\net8.0-windows\Veldrid.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\Veldrid.csproj.AssemblyReference.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\Veldrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\Veldrid.AssemblyInfoInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\Veldrid.AssemblyInfo.cs
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\Veldrid.csproj.CoreCompileInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\Veldrid.sourcelink.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\Veldrid.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\refint\Veldrid.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid\obj\Release\net8.0-windows\ref\Veldrid.dll

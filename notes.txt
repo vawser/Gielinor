@@ -1,0 +1,18 @@
+#----------------------------------------------------
+# Changelog
+#----------------------------------------------------
+# Gameplay
+- Adjusted the experience rewards so the leveling curse is flatter.
+DONE:
+ - Agility
+ - Woodcutting
+ - Mining
+ - Fishing
+ - Thieving
+ 
+ 
+- Added passive Agility XP when running.
+- Items are no longer dropped on death.
+- Ores are no longer depleted.
+- Increased fishing spot movement delay by a factor of 10.
+- Pickpocketing now repeats automatically and follows NPCs (mostly)

@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdMUowVPmObeUVO/xzRZ9rjmp+pjtp/BzsoqbzcSGcRDImjyTK0RZTdyKV5KiFYn8D4swGwubw+URhwCAyHRfw==",
+  "success": true,
+  "projectFilePath": "G:\\RSPS\\Tools\\Runebox\\src\\Veldrid\\Veldrid.StartupUtilities\\Veldrid.StartupUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benja\\.nuget\\packages\\communitytoolkit.highperformance\\8.2.2\\communitytoolkit.highperformance.8.2.2.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\nativelibraryloader\\1.0.13\\nativelibraryloader.1.0.13.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\silk.net.core\\2.21.0\\silk.net.core.2.21.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\silk.net.maths\\2.21.0\\silk.net.maths.2.21.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\silk.net.sdl\\2.21.0\\silk.net.sdl.2.21.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\ultz.native.sdl\\2.30.1\\ultz.native.sdl.2.30.1.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\vortice.vulkan\\1.8.12\\vortice.vulkan.1.8.12.nupkg.sha512",
+    "C:\\Users\\benja\\.nuget\\packages\\vortice.vulkanmemoryallocator\\1.4.6\\vortice.vulkanmemoryallocator.1.4.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

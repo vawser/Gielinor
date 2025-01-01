@@ -1,0 +1,14 @@
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\bin\Release\net8.0-windows\Veldrid.StartupUtilities.deps.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\bin\Release\net8.0-windows\Veldrid.StartupUtilities.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\bin\Release\net8.0-windows\Veldrid.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\bin\Release\net8.0-windows\Veldrid.SDL2.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.csproj.AssemblyReference.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.AssemblyInfoInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.AssemblyInfo.cs
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.csproj.CoreCompileInputs.cache
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.sourcelink.json
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.csproj.CopyComplete
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\Veldrid.StartupUtilities.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\refint\Veldrid.StartupUtilities.dll
+C:\Users\benja\Programming\C#\Smithbox\src\Veldrid\Veldrid.StartupUtilities\obj\Release\net8.0-windows\ref\Veldrid.StartupUtilities.dll
